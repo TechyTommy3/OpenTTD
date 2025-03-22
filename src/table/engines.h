@@ -639,7 +639,7 @@ static constexpr AircraftVehicleInfo _orig_aircraft_vehicle_info[] = {
 	AVI( 14, 21, 220, J, SND_09_TAKEOFF_JET,                 40,  74, 65, 150 ), // 29 Darwin 700
 	AVI( 16, 19, 160, J, SND_09_TAKEOFF_JET,                 40, 181, 45,  85 ), // 30 FFP Hyperdart 2
 	AVI( 17, 24, 248, J, SND_3D_TAKEOFF_JET_BIG,             40,  74, 80, 400 ), // 31 Dinger 200
-	AVI( 18, 80, 251, J, SND_3B_TAKEOFF_JET_FAST,            50, 181, 45, 130 ), // 32 Dinger 1000
+	AVI( 18, 80, 251, J, SND_3B_TAKEOFF_JET_FAST,            2147483646, 2147483646, 45, 130 ), // 32 Dinger 1000
 	AVI( 20, 13,  85, P, SND_45_TAKEOFF_PROPELLER_TOYLAND_1, 18,  37,  5,  25 ), // 33 Ploddyphut 100
 	AVI( 21, 18, 100, P, SND_46_TAKEOFF_PROPELLER_TOYLAND_2, 20,  37,  9,  60 ), // 34 Ploddyphut 500
 	AVI( 22, 25, 140, P, SND_09_TAKEOFF_JET,                 40,  74, 12,  90 ), // 35 Flashbang X1
